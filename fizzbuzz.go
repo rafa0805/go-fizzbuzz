@@ -1,4 +1,4 @@
-package fizzbuzz
+package fizzbuzzhoge
 
 func FizzBuzz(n int) string {
   if n % 3 == 0 {
